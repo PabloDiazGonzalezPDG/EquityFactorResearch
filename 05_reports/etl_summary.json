@@ -1,0 +1,219 @@
+{
+  "start_date": "2015-01-01",
+  "end_date": "2025-12-26",
+  "tickers_requested": [
+    "AAPL",
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "META",
+    "NVDA",
+    "TSLA",
+    "JPM",
+    "BAC",
+    "WFC",
+    "GS",
+    "JNJ",
+    "PFE",
+    "MRK",
+    "XOM",
+    "CVX",
+    "KO",
+    "PEP",
+    "WMT",
+    "COST",
+    "HD",
+    "LOW",
+    "DIS",
+    "NFLX",
+    "INTC",
+    "AMD"
+  ],
+  "tickers_downloaded": [
+    "AAPL",
+    "AMD",
+    "AMZN",
+    "BAC",
+    "COST",
+    "CVX",
+    "DIS",
+    "GOOGL",
+    "GS",
+    "HD",
+    "INTC",
+    "JNJ",
+    "JPM",
+    "KO",
+    "LOW",
+    "META",
+    "MRK",
+    "MSFT",
+    "NFLX",
+    "NVDA",
+    "PEP",
+    "PFE",
+    "TSLA",
+    "WFC",
+    "WMT",
+    "XOM"
+  ],
+  "rows_total": 71812,
+  "per_ticker": {
+    "AAPL": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "MSFT": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "AMZN": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "GOOGL": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "META": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "NVDA": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "TSLA": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "JPM": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "BAC": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "WFC": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "GS": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "JNJ": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "PFE": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "MRK": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "XOM": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "CVX": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "KO": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "PEP": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "WMT": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "COST": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "HD": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "LOW": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "DIS": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "NFLX": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "INTC": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    },
+    "AMD": {
+      "first_date": "2015-01-02",
+      "last_date": "2025-12-24",
+      "missing_days_count": 105,
+      "pct_missing": 0.03662364841297523
+    }
+  }
+}
