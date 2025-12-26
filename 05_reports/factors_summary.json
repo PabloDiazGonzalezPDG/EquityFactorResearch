@@ -1,0 +1,20 @@
+{
+  "rows_in": 71812,
+  "rows_out": 70122,
+  "tickers_in": 26,
+  "tickers_out": 26,
+  "min_date": "2015-03-31",
+  "max_date": "2025-12-17",
+  "missingness_pct": {
+    "date": 0.0,
+    "ticker": 0.0,
+    "ret_1d": 0.0,
+    "ret_fwd_5d": 0.0,
+    "mom_20d": 0.0,
+    "mom_60d": 0.0,
+    "vol_20d": 0.0,
+    "zscore_20d_price": 0.0,
+    "adv_20d": 0.0,
+    "dollar_vol_20d": 0.0
+  }
+}
